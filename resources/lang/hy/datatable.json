@@ -1,0 +1,23 @@
+{
+    "sEmptyTable": "Աղյուսակում առկա տվյալներ չկան",
+    "sInfo": "Ցուցադրվում են _START_-ից _END_ _TOTAL_ գրառումներից",
+    "sInfoEmpty": "Ցուցադրվում է 0-ից 0-ը 0 գրառումից",
+    "sInfoFiltered": "(զտված է _MAX_ ընդհանուր գրառումից)",
+    "sInfoPostFix": "",
+    "sInfoThousands": ",",
+    "sLengthMenu": "Ցույց տալ _MENU_ գրառումները",
+    "sLoadingRecords": "Բեռնվում է...",
+    "sProcessing": "Մշակում...",
+    "sSearch": "Որոնում:",
+    "sZeroRecords": "Համապատասխան գրառումներ չեն գտնվել",
+    "oPaginate": {
+        "sFirst": "Առաջին",
+        "sLast": "Վերջին",
+        "sNext": "Հաջորդը",
+        "sPrevious": "Նախորդ"
+    },
+    "oAria": {
+        "sSortAscending": ": ակտիվացնել սյունակը աճող դասավորելու համար",
+        "sSortDescending": ": ակտիվացնել՝ սյունակը նվազման կարգով դասավորելու համար"
+    }
+}

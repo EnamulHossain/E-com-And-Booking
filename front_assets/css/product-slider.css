@@ -1,0 +1,29 @@
+
+  .product-slider-section{
+    height: 400px;
+  }
+  #product-slider-images{
+    position: absolute;
+    width: 1000px;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  
+  .product-slider-canvas{
+    position: relative;
+    display:block;
+    overflow: hidden;
+  }
+  
+  
+  #product-slider-images img{
+    display: none;
+    vertical-align: bottom;
+  }
+  
+  canvas{
+    vertical-align: bottom;
+    position: absolute;
+  }
